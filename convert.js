@@ -17,6 +17,7 @@ function convertLine(line) {
 var ampReg = /\&/g;
 var ltReg = /</g;
 var gtReg = />/g;
+
 function converSpecial(line) {
     line = line.replace(ampReg, '&amp;');
     line = line.replace(ltReg, '&lt;');
