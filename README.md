@@ -1,2 +1,3 @@
 # Turn your code text to html
-[Take a look](http://www.apolis.pub/pages/Code2Html/)
+
+[Take a look](http://apoliszk.github.io/pages/code-to-html/)
